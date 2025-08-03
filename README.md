@@ -9,6 +9,5 @@ I created this project as part of my learning journey with React, to practice co
 - 💸 **Discounts Highlighted:** Prices with strike-through for clear discounts.
 
 ## 🚀 Tech Stack
-
-- **React** – UI components
-- **Vite** – Lightning-fast dev server & build tool
+- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" /> **React** — UI library  
+- <img src="https://vitejs.dev/logo.svg" width="40" /> **Vite** — Lightning-fast dev server & build tool
